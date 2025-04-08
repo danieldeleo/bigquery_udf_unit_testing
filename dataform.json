@@ -1,6 +1,0 @@
-{
-    "defaultSchema": "fn",
-    "warehouse": "bigquery",
-    "defaultDatabase": "danny-bq",
-    "defaultLocation": "us"
-}
