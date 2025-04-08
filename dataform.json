@@ -1,7 +1,6 @@
 {
-    "defaultSchema": "dataform",
-    "assertionSchema": "dataform_assertions",
+    "defaultSchema": "fn",
     "warehouse": "bigquery",
-    "defaultDatabase": "dataform-demos",
+    "defaultDatabase": "danny-bq",
     "defaultLocation": "us"
 }

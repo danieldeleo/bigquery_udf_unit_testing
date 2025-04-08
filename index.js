@@ -8,7 +8,7 @@ module.exports = (params) => {
 
     // Publish and return datasets.
     let result = {
-      unit_test_utils: unit_test_utils
+      library: unit_test_utils
     };
 
     return result;
